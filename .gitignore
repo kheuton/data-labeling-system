@@ -16,6 +16,9 @@ node_modules
 dist
 build
 
+database.sqlite
+*.sqlite
+*.sqlite-journal
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
